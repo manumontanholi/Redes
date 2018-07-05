@@ -1,7 +1,7 @@
 <html>
 <head >
     <title>Conta Corrente</title>
-    <link rel ="stylesheet" type="text/js" href="opa.js"/>
+    <link rel ="stylesheet" type="text/js" href="opa.js"/
     <link rel ="stylesheet" type="text/css " href="opa.css"/>
 </head>
 <body>
